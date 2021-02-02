@@ -1,0 +1,1 @@
+# 1_inheritance_c
